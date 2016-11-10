@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/build/intermediates/res/merged/debug/layout/activity_cam.xml",
+        "source": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/src/main/res/layout/activity_cam.xml"
+    },
+    {
+        "merged": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/build/intermediates/res/merged/debug/layout/activity_show_photo.xml",
+        "source": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/src/main/res/layout/activity_show_photo.xml"
+    }
+]

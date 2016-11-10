@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/gridlines.png",
+        "source": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/src/main/res/drawable-xhdpi/gridlines.png"
+    },
+    {
+        "merged": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/capture_button.png",
+        "source": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/src/main/res/drawable-xhdpi/capture_button.png"
+    },
+    {
+        "merged": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/flash.png",
+        "source": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/src/main/res/drawable-xhdpi/flash.png"
+    },
+    {
+        "merged": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/camera_flip.png",
+        "source": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/src/main/res/drawable-xhdpi/camera_flip.png"
+    },
+    {
+        "merged": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/grid.png",
+        "source": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/src/main/res/drawable-xhdpi/grid.png"
+    },
+    {
+        "merged": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/flash_off.png",
+        "source": "/home/nilax/Desktop/Camera Demo/SurfaceCameraDemo/app/src/main/res/drawable-xhdpi/flash_off.png"
+    }
+]
